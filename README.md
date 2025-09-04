@@ -40,7 +40,7 @@ PyOS provides a secure sandbox for Python apps, offering access to OS services v
 
 - Launch in Virtual Machine:
 
-1- Create a new VM in VirtualBox or QEMU.
+-- Create a new VM in VirtualBox or QEMU.
 
 2- Attach PyOS.iso as the boot medium.
 
@@ -67,3 +67,4 @@ run_app example_app.py
 ## Notes
 
 PyOS is an educational and experimental OS. It demonstrates how a C kernel and a high-level language runtime can coexist, allowing rapid application development while keeping the core OS efficient.
+
